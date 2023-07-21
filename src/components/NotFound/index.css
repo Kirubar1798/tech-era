@@ -1,0 +1,38 @@
+.NotFoundContainer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.NotFoundImage {
+  margin-top: 15px;
+  margin-bottom: 45px;
+  width: 450px;
+}
+.NotFoundHeading {
+  color: #475569;
+  font-family: 'Roboto';
+  font-size: 34px;
+  font-weight: 500;
+  margin-bottom: 10px;
+}
+
+.NotFoundInfo {
+  color: #64748b;
+  font-family: 'Roboto';
+  font-size: 18px;
+  margin-bottom: 10px;
+}
+.RetryButton {
+  background-color: #4656a1;
+  color: #ffffff;
+  font-family: 'Roboto';
+  font-size: 16px;
+  height: 35px;
+  width: 110px;
+  border-radius: 10px;
+  border: none;
+  outline: none;
+  cursor: pointer;
+}
